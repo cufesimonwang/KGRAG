@@ -1,2 +1,2 @@
 # KGRAG
-Graph RAG in LEED
+Graph RAG ~~in~~ for LEED Green
